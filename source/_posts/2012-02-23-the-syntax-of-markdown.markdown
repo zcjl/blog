@@ -217,3 +217,8 @@ Don't forget to check Preferences, lots of useful options are there. You can Dis
 Follow [@chenluois](http://twitter.com/chenluois) on Twitter for the latest news.
 
 For feedback, use the menu `Help` - `Send Feedback`
+
+----
+
+# Another post about the syntax of markdown
+<http://daringfireball.net/projects/markdown/syntax>

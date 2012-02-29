@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the-syntax-of-markdown"
+title: "Markdown语法示例 via Mou"
 date: 2012-02-23 22:06
 comments: true
 categories: 
@@ -21,6 +21,8 @@ categories:
 **strong** or __strong__ ( Cmd + B )
 
 *emphasize* or _emphasize_ ( Cmd + I )
+
+<!--more-->
 
 **Sometimes I want a lot of text to be bold.
 Like, seriously, a _LOT_ of text**

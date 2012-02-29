@@ -1,16 +1,10 @@
 ---
 layout: post
-title: "关于Github使用的一些技巧"
+title: "Github使用的入门技巧"
 date: 2012-02-23 21:55
 comments: true
 categories: git github
 ---
-
-* test1
- * test2
-  * test3 
-     * test4
-		* test5
 
 #### Global setup:
 [Set up git](http://help.github.com/set-up-git-redirect)
@@ -26,6 +20,8 @@ categories: git github
 	git commit -m 'first commit'
 	git remote add origin git@github.com:zcjl/zcjl.git
 	git push -u origin master
+
+<!--more-->
       
 #### Existing Git Repo?
 	cd existing_git_repo

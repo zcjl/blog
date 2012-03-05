@@ -26,3 +26,5 @@ Sorted by google search list:
 * [Scott Watermasysk](http://www.scottw.com)
 * [Spatially Adjusted](http://spatiallyadjusted.com)
 * [The Hiltmon](http://hiltmon.com)
+* [小车的博客](http://www.xiaoche.me)
+* [雁起平沙的网络日志](http://chen.yanping.me/cn)

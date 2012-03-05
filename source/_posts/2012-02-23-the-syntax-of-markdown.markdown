@@ -3,7 +3,7 @@ layout: post
 title: "Markdown语法示例 via Mou"
 date: 2012-02-23 22:06
 comments: true
-categories: 
+categories: markdown 
 ---
 
 # Mou

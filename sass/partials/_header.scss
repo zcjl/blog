@@ -1,5 +1,10 @@
 body > header {
-  background: $header-bg;
+  //background: $header-bg;
+  hgroup {
+    width: 96%;
+    margin: 0px 2% 0px 2%;
+    position: relative;
+  }
   h1 {
     display: inline-block;
     margin: 0;
